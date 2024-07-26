@@ -1,0 +1,17 @@
+body {
+    overflow: hidden; /* Hide overflow to prevent scrolling */
+  }
+  
+  .background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://www.targetadmission.com/img/colleges/newc/49553-920418.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px); /* Add blur effect */
+    z-index: -1; /* Send background behind other content */
+  }
+  
