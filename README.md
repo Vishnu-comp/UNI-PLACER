@@ -2,7 +2,6 @@
 # UNI-PLACER
 
 ## Table of Contents
-- [Badges](#badges)
 - [Description](#description)
 - [Features](#features)
 - [Programming Languages](#programming-languages)
