@@ -2,7 +2,7 @@
 # UNI-PLACER
 
 ## Table of Contents
--[Background](##Background)
+- [Background](#background)
 - [Description](#description)
 - [Features](#features)
 - [Programming Languages](#programming-languages)
