@@ -2,14 +2,10 @@
 # UNI-PLACER
 
 ## Table of Contents
+-[Background](##Background)
 - [Description](#description)
 - [Features](#features)
 - [Programming Languages](#programming-languages)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
 - [Uploaded Images](#uploaded-images)
 
 ## Background
@@ -33,11 +29,9 @@ PHP AND MYSQL
 ```
 
 
-## Contributing
-No contribution guidelines provided.
 
-## License
-MIT
+
+
 
 ## Social Media Links
 [GitHub](https://github.com/Vishnu-comp/)  
